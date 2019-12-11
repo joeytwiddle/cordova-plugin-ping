@@ -5,6 +5,8 @@
 
 This plugin implements the [`ping` software utility](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29).
 
+cordova-plugin-ping-pong is a fork of t1st3's [cordova-plugin-ping](https://github.com/t1st3/cordova-plugin-ping) which adds iOS support written by [Hughes Systique](https://github.com/hsccorp).
+
 
 ## Supported Platforms
 
