@@ -1,7 +1,7 @@
 
-# cordova-plugin-ping
+# cordova-plugin-ping-pong
 
-[![NPM version](https://img.shields.io/npm/v/cordova-plugin-ping.svg)](https://www.npmjs.org/package/cordova-plugin-ping)
+[![NPM version](https://img.shields.io/npm/v/cordova-plugin-ping-pong.svg)](https://www.npmjs.org/package/cordova-plugin-ping-pong)
 
 This plugin implements the [`ping` software utility](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29).
 
@@ -13,11 +13,11 @@ This plugin implements the [`ping` software utility](https://en.wikipedia.org/wi
 
 ## Installation
 
-> cordova plugin add cordova-plugin-ping
+> cordova plugin add cordova-plugin-ping-pong
 
 or
 
-> cordova plugin add https://github.com/t1st3/cordova-plugin-ping.git
+> cordova plugin add https://github.com/joeytwiddle/cordova-plugin-ping-pong.git
 
 ## Usage
 
@@ -107,4 +107,4 @@ The callback function for error takes one argument, which is the error emitted.
 
 ## License
 
-This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). Check the [license file](https://github.com/t1st3/cordova-plugin-ping/blob/master/license).
+This project is licensed under the [MIT license](https://opensource.org/licenses/MIT). Check the [license file](https://github.com/joeytwiddle/cordova-plugin-ping-pong/blob/master/license).
